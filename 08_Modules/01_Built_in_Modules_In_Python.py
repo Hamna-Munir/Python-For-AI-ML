@@ -1,19 +1,19 @@
 # ============================================================
 #  01_Built_in_Modules_In_Python.py
 # ============================================================
-# 🔹 Topic: Built-in Modules in Python
-# 🔹 Author: Hamna Munir
-# 🔹 Description:
+#  Topic: Built-in Modules in Python
+#  Author: Hamna Munir
+#  Description:
 #   This file covers the concept of built-in modules in Python,
 #   their usage, and examples of some commonly used modules.
 # ============================================================
 
 
 # ============================================================
-# 🔸 1. Introduction
+#  1. Introduction
 # ============================================================
 """
-✅ What are Built-in Modules?
+  What are Built-in Modules?
 
 - Built-in modules are modules that come pre-installed with Python.
 - You don’t need to install them separately using pip.
@@ -34,7 +34,7 @@ import sys
 
 
 # ============================================================
-# 🔸 2. math Module
+#  2. math Module
 # ============================================================
 """
 The math module provides mathematical functions like square root,
@@ -51,7 +51,7 @@ print("-" * 50)
 
 
 # ============================================================
-# 🔸 3. random Module
+# 3. random Module
 # ============================================================
 """
 The random module is used to generate random numbers or select random items.
@@ -69,7 +69,7 @@ print("-" * 50)
 
 
 # ============================================================
-# 🔸 4. datetime Module
+#  4. datetime Module
 # ============================================================
 """
 The datetime module deals with dates and times.
@@ -85,7 +85,7 @@ print("-" * 50)
 
 
 # ============================================================
-# 🔸 5. os Module
+#  5. os Module
 # ============================================================
 """
 The os module allows interaction with the operating system,
@@ -99,14 +99,14 @@ print("-" * 50)
 
 
 # ============================================================
-# 🔸 6. sys Module
+#  6. sys Module
 # ============================================================
 """
 The sys module provides functions and variables used to manipulate
 different parts of the Python runtime environment.
 """
 
-print("🧠 sys Module Examples:")
+print(" sys Module Examples:")
 print("Python version:", sys.version)
 print("System platform:", sys.platform)
 print("Command-line arguments:", sys.argv)
@@ -114,20 +114,20 @@ print("-" * 50)
 
 
 # ============================================================
-# 🔸 7. Summary
+#  7. Summary
 # ============================================================
 """
 📘 Summary of Common Built-in Modules:
 
-| Module   | Purpose                                   |
+| Module    | Purpose                                   |
 |-----------|-------------------------------------------|
 | math      | Mathematical operations                   |
 | random    | Random number generation                  |
 | datetime  | Date and time handling                    |
-| os        | Interacting with the operating system      |
-| sys       | Accessing system-specific parameters       |
+| os        | Interacting with the operating system     |
+| sys       | Accessing system-specific parameters      |
 
-✅ Tip:
+Tip:
 You can see all available built-in modules by typing:
     help('modules')
 in your Python shell.
