@@ -93,7 +93,7 @@ By completing this repository, you will:
 
 ---
 
-## 🧑‍💻 Author
+## Author
 **Hamna Munir**  
 AI/ML Engineer Enthusiast | Software Engineering Student  
 GitHub: [Hamna-Munir](https://github.com/Hamna-Munir)
