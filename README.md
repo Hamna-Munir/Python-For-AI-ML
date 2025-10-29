@@ -1,9 +1,9 @@
 # 🐍 Python for AI/ML
 
 ## 📘 Overview
-This repository contains a complete and structured Python learning roadmap — from basic concepts to advanced topics — specifically designed for **Artificial Intelligence (AI)** and **Machine Learning (ML)** learners.
+This repository contains a complete and structured **Python learning roadmap** — from basic concepts to advanced core topics — specially designed for **Artificial Intelligence (AI)** and **Machine Learning (ML)** learners.
 
-The goal of this repository is to provide **clear explanations**, **real examples**, and **organized learning files** that build a strong Python foundation before diving into AI/ML.
+The goal is to provide **clear explanations**, **well-documented examples**, and **organized code files** that help build a strong Python foundation before moving into AI/ML frameworks.
 
 ---
 
@@ -14,15 +14,20 @@ The goal of this repository is to provide **clear explanations**, **real example
 - Print Function  
 - Comments in Python  
 - Escape Sequences  
-- Variables and Data Types  
+- Variables in Python  
+- Data Types in Python  
 - Type Conversion & Type Casting  
 - Input Function  
 - Operators in Python  
+
+---
 
 ### ⚙️ 2. Control Flow
 - Control Statements  
 - Conditional Statements (`if`, `elif`, `else`)  
 - Loops (`for`, `while`, `nested loops`)  
+
+---
 
 ### 🧠 3. Data Structures
 - Lists  
@@ -31,27 +36,53 @@ The goal of this repository is to provide **clear explanations**, **real example
 - Dictionaries  
 - Sets  
 
-### 🧰 4. Advanced Core Concepts
+---
+
+### 🔍 4. Functions and Modules
 - Functions in Python  
-- File Handling  
+- Built-in Functions  
+- Built-in Modules in Python  
+- Custom Modules in Python  
+
+---
+
+### 🧰 5. Advanced Core Concepts
+- File Handling in Python  
 - Exception Handling *(optional to add later)*  
-- Modules and Packages *(optional to add later)*  
+- Variables and Memory Reference  
+- Aliasing and Reference Counting  
+- Garbage Collection in Python  
+- Mutable vs Immutable Data Types  
+- Side Effects of Mutability  
+- Cloning Objects  
+
+---
+
+### 🔄 6. Recursion in Python
+- Concept of Recursion  
+- Base and Recursive Cases  
+- Factorial & Fibonacci Examples  
+- Nested and Indirect Recursion  
+- Tail Recursion  
+- Recursion vs Iteration Comparison  
+- Real-world Applications  
 
 ---
 
 ## 🎯 Learning Objectives
 By completing this repository, you will:
-- Master Python fundamentals from scratch.  
-- Develop clean, well-structured, and professional code.  
-- Build a strong foundation for **AI/ML programming**.  
-- Be ready to move on to **OOP**, **NumPy**, **Pandas**, and **Machine Learning projects**.
+- Master Python fundamentals through practical examples.  
+- Understand how Python manages memory and data types.  
+- Learn to organize projects using modules and functions.  
+- Build a strong foundation for **AI/ML, Data Science, and Automation**.  
+- Be prepared to advance into **OOP**, **NumPy**, **Pandas**, and **Machine Learning**.
 
 ---
 
 ## 🧠 Ideal For
 - Students revising Python for AI/ML  
-- Beginners starting their Python journey  
-- Anyone preparing for coding interviews or internships  
+- Beginners starting their coding journey  
+- Learners preparing for internships, coding tests, or ML research  
 
 ---
 
@@ -65,17 +96,17 @@ By completing this repository, you will:
 ## 🧑‍💻 Author
 **Hamna Munir**  
 AI/ML Engineer Enthusiast | Software Engineering Student  
-GitHub: [hamnamunir](https://github.com/hamnamunir)
+GitHub: [Hamna-Munir](https://github.com/Hamna-Munir)
 
 ---
 
 ## 🪶 License
-This repository is open-source and available for educational purposes.  
-You are free to learn, share, and build upon this work with proper credit.
+This repository is open-source and free for educational use.  
+You are welcome to learn, share, and build upon this work with proper credit.
 
 ---
 
 ## 🌟 How to Use This Repository
 1. Clone the repository  
    ```bash
-   git clone https://github.com/hamnamunir/python-for-ai-ml.git
+   git clone https://github.com/Hamna-Munir/Python-For-AI-ML.git
